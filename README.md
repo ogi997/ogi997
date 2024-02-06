@@ -4,7 +4,7 @@
 <b>📫 How to reach me:</b> <br />
   <a href="https://www.linkedin.com/in/ognjen-tomanic/">Linkedin</a> <br /> 
   tomanic.ogi@gmail.com <br />
-<b>🌱 I’m currently</b> <i>Software Engineering student at Faculty of Electrical Engineering, University of Banja Luka</i>
+<b>🌱 I’m </b> <i>Software Engineer</i>
 *************
 <!--
 
