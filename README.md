@@ -1,9 +1,11 @@
-## Hi there 👋
-
+### Hi there 👋 <br />
+------------------------------
+<b>😄 I'm </b> <i>@ogi997</i> <br />
+<b>📫 How to reach me:</b> <br />
+  <a href="https://www.linkedin.com/in/ognjen-tomanic/">Linkedin</a> <br /> 
+<b>🌱 I’m </b> <i>Software Engineer</i>
+*************
 <!--
-**ogi997/ogi997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
